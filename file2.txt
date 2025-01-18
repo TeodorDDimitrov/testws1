@@ -1,4 +1,8 @@
 The river flowed gently.
  It reflected the moonlight.
  Nearby, an owl hooted.
+<<<<<<< HEAD
  The forest seemed whimsical.
+=======
+ The forest seemed mystical.
+>>>>>>> ffd2948c5a9b0fd70f74d5d7d5df36e1d67c80d2
