@@ -1,10 +1,4 @@
 The castle was quiet at night.
-<<<<<<< HEAD
 A lantern illuminated the tower.
 A shadow moved behind the curtain.
 Was someone watching me?
-=======
-A lantern shined in the tower.
-A shadow moved behind the curtain.
-Was someone watching you?
->>>>>>> ffd2948c5a9b0fd70f74d5d7d5df36e1d67c80d2
